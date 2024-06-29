@@ -73,7 +73,7 @@ else{
   <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
 
 
-  <title>Notes - Notes taking made easy</title>
+  <title>KeepNotes - Notes taking made easy</title>
 
 </head>
 
@@ -171,7 +171,7 @@ else{
   }
   ?>
   <div class="container my-4">
-    <h2>Add a Note to Notes</h2>
+    <h2>Add a Note to KeepNotes</h2>
     <form action="/crud/index.php" method="POST">
       <div class="form-group">
         <label for="title">Note Title</label>
